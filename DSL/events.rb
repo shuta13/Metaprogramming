@@ -3,5 +3,5 @@ event "常に発生するイベント" do
 end
 
 event "絶対に発生しないイベント" do
-  false # 引数返さん
+  false # 引数返さん                                                                                                                                                                                                                                              5tf
 end
